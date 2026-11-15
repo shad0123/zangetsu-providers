@@ -13,8 +13,8 @@ var SOURCE_ID = (typeof __SOURCE_ID !== 'undefined' && __SOURCE_ID)
 
 // Fallback for when the domain list above can't be reached — .homes went dark,
 // so this has to track whatever the list is currently pointing at.
-var DEFAULT_MAIN = 'https://multimovies.beer';
-var URLS = 'https://raw.githubusercontent.com/SaurabhKaperwan/Utils/refs/heads/main/urls.json';
+var DEFAULT_MAIN = 'https://m1.multimovies.courses';
+var URLS = '';
 var UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
   + '(KHTML, like Gecko) Chrome/120.0 Safari/537.36';
 
